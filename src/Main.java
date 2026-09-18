@@ -265,6 +265,3 @@ public class Biblioteca {
         System.out.println("Empréstimos atualmente ativos por regularizar: " + var0);
     }
 }
-
-  }
-}
