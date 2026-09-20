@@ -43,7 +43,7 @@ javac BibliotecaMunicipal.java<br>
 Depois da compilação, execute:
 java BibliotecaMunicipal
 
-**8. Menu do sistema<**br>
+**8. Menu do sistema**<br>
 O programa apresenta um menu com as seguintes opções:
 Registar livro<br>
 Listar livros disponíveis<br>
