@@ -1,60 +1,60 @@
-Sistema de Gestão da Biblioteca Municipal
-1. Descrição
+Sistema de Gestão da Biblioteca Municipal<br>
+1. Descrição<br>
 O Sistema de Gestão da Biblioteca Municipal é uma aplicação desenvolvida em linguagem Java e executada através da consola.
 O sistema foi desenvolvido para facilitar o controlo do inventário de livros, utilizadores e operações de empréstimo e devolução.
 Os dados são armazenados temporariamente em memória através de arrays e matrizes, não sendo necessária uma base de dados externa.
 
-2. Funcionalidades
-Registo de novo livro;
-Registo de novo utilizador
-Consulta do catálogo de livros;
-Pesquisar Livros por título ou autor;
-Efectuar empréstimo de livro;
-Efectuar devolução de livros;
-Apresentar Estatísticas;
+2. Funcionalidades<br>
+Registo de novo livro;<br>
+Registo de novo utilizador<br>
+Consulta do catálogo de livros;<br>
+Pesquisar Livros por título ou autor;<br>
+Efectuar empréstimo de livro;<br>
+Efectuar devolução de livros;<br>
+Apresentar Estatísticas;<br>
 
 
-3. Tecnologias utilizadas
-Java
-Arrays
-Matrizes
-Estruturas condicionais
-Estruturas de repetição
-Métodos
-Programação orientada a objectos/conceitos fundamentais de programação Java
-Git
-GitHub
+3. Tecnologias utilizadas<br>
+Java<br>
+Arrays<br>
+Matrizes<br>
+Estruturas condicionais<br>
+Estruturas de repetição<br>
+Métodos<br>
+Programação orientada a objectos/conceitos fundamentais de programação Java<br>
+Git<br>
+GitHub<br>
 
-4. Requisitos
+4. Requisitos<br>
 Para executar o projecto é necessário ter instalado:
-JDK 17 ou versão superior;
+JDK 17 ou versão superior;<br>
 Git, caso pretenda clonar o projecto através do terminal.
 
-5. Clonar o projecto
+5. Clonar o projecto<br>
 No terminal, execute:
 git clone URL_DO_REPOSITORIO
 Depois entre na pasta:
 cd BibliotecaMunicipal
 
-6. Compilação
+6. Compilação<br>
 Entre na pasta onde se encontra o ficheiro Java e execute:
-javac BibliotecaMunicipal.java
-7. Execução
+javac BibliotecaMunicipal.java<br>
 
+7. Execução<br>
 Depois da compilação, execute:
 java BibliotecaMunicipal
 
-8. Menu do sistema
+8. Menu do sistema<br>
 O programa apresenta um menu com as seguintes opções:
-Registar livro
-Listar livros disponíveis
-Pesquisar livro
-Registar utilizador
-Listar utilizadores
-Efectuar empréstimo
-Registar devolução
-Consultar histórico
-Ver estatísticas
+Registar livro<br>
+Listar livros disponíveis<br>
+Pesquisar livro<br>
+Registar utilizador<br>
+Listar utilizadores<br>
+Efectuar empréstimo<br>
+Registar devolução<br>
+Consultar histórico<br>
+Ver estatísticas<br>
 Sair
 
 9. Armazenamento dos dados
